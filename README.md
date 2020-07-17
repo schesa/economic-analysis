@@ -1,6 +1,6 @@
-# economic-analysis
+# Economic analysis
 
-## Used power BI to do some stuff
+## Used power BI to do some dashboards
 
 dataset from https://www.kaggle.com/rajanand/import-and-export-by-india
 modeled csv using python scripts
